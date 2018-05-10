@@ -1,0 +1,2 @@
+This is mars.txt using vi on bash win.
+Cold and dry, but everything is color.
