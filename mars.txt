@@ -1,2 +1,4 @@
 This is mars.txt using vi on bash win.
 Cold and dry, but everything is color.
+
+The color is my favorite, but it would be nice to have more of a range.
