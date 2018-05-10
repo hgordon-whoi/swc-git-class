@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 THis was an empty file. Andree is editing and I am editing without talking
 to each other!
 Let's bring on the conflict at github!
+=======
+I hope you are enjoying your day
+>>>>>>> b131a7c794c6de88eff9e7a77ab95b7301b1a6c9
